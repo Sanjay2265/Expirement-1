@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>NARUTO</h1>>
+</body>
+<p style="text-align:justify; color:red">Naruto Uzumaki, a mischievous
+adolescent ninja,
+struggles as he searches for recognition and dreams of becoming the
+Hokage, the village's leader and strongest ninja.</p>
+<img src="Kakashi.jpg" alt="THE COPY NINJA">
+<style>
+table {
+font-family: arial, sans-serif;
+
+border-collapse: collapse;
+width: 100%;
+}
+td, th {
+border: 1px solid orangered;
+text-align: left;
+padding: 8px;
+}
+tr:nth-child(even) {
+background-color: white;
+}
+</style>
+</head>
+<body>
+<h2>Characters in series</h2>
+<table>
+<tr>
+<th>First name</th>
+<th>Last name</th>
+<th>Village</th>
+</tr>
+<tr>
+<td>Obito</td>
+<td>Uchiha</td>
+<td>Leaf village</td>
+</tr>
+<tr>
+<td>Kakashi</td>
+<td>Hatake</td>
+<td>Leaf village</td>
+</tr>
+<tr>
+<td>Kisame</td>
+<td>Hoshigaki</td>
+<td>Mist village</td>
+</tr>
+<tr>
+<td>Nagato</td>
+<td>Uzumaki</td>
+<td>Rain village</td>
+</tr>
+<tr>
+<td>Gaara</td>
+<td>Yuzawa</td>
+
+<td>Sand village</td>
+</tr>
+</table><Br>
+<a href="https://nntheblog.com/how-old-is-kakashi-hatake/">Kakashi-The
+copy ninja</a>
+<h2>An Unordered HTML List</h2>
+<ul>
+<li>Itachi</li>
+<li>Hashirama</li>
+<li>Madara</li>
+</ul>
+<h2>An Ordered HTML List</h2>
+<ol>
+<li>Itachi</li>
+<li>Hashirama</li>
+<li>Madara</li>
+</ol>
+</body>
+</html>
